@@ -1,4 +1,4 @@
 # demo-repo
 First Repository
 <br>
-Author-Tanmay Sreenag
+Author-Tanmay Sreenag(UIT)
